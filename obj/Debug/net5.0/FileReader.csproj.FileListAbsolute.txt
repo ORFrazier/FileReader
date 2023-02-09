@@ -1,0 +1,16 @@
+C:\Users\lonni\source\repos\FileReader\FileReader\bin\Debug\net5.0\FileReader.exe
+C:\Users\lonni\source\repos\FileReader\FileReader\bin\Debug\net5.0\FileReader.deps.json
+C:\Users\lonni\source\repos\FileReader\FileReader\bin\Debug\net5.0\FileReader.runtimeconfig.json
+C:\Users\lonni\source\repos\FileReader\FileReader\bin\Debug\net5.0\FileReader.runtimeconfig.dev.json
+C:\Users\lonni\source\repos\FileReader\FileReader\bin\Debug\net5.0\FileReader.dll
+C:\Users\lonni\source\repos\FileReader\FileReader\bin\Debug\net5.0\FileReader.pdb
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\FileReader.csproj.AssemblyReference.cache
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\FileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\FileReader.AssemblyInfoInputs.cache
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\FileReader.AssemblyInfo.cs
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\FileReader.dll
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\refint\FileReader.dll
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\FileReader.pdb
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\FileReader.genruntimeconfig.cache
+C:\Users\lonni\source\repos\FileReader\FileReader\obj\Debug\net5.0\ref\FileReader.dll
